@@ -1,0 +1,13 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+
+
+/* You can add global styles to this file, and also import other style files */
+.screen_width {
+    width:500px;
+}
+
+.input_fields {
+    width:100px;
+    height:30px;
+    margin: auto;
+}
